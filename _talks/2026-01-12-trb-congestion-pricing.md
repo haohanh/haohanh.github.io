@@ -8,4 +8,4 @@ date: 2026-01-12
 location: "Washington, DC"
 ---
 
-Peer-reviewed poster presentation at the Transportation Research Board (TRB) 104th Annual Meeting. This research examines the impact of New York City's congestion pricing policy on illegal street parking, advised by Prof. Zhan Guo.
+Peer-reviewed poster presentation at the Transportation Research Board (TRB) 104th Annual Meeting.
