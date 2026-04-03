@@ -9,37 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV here: [CV (PDF)](/files/CV_HaohanHe.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Data Science**, New York University - Center for Data Science, Courant School, 2025–2027 (expected)
+* **M.S. in Social Policy and Applied Data Ethics**, University of Pennsylvania - School of Social Policy & Practice, 2024–2025
+* **B.Econ.**, Xiamen University - School of Economics, 2020–2024
+  * Thesis: *The Role of Digital Infrastructure in Shaping Cultural Consumption: Evidence from China Family Panel Data (CFPS)*, Grade: A
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Data Analyst**, NYU Financial Access Initiative (FAI), Wagner Graduate School of Public Service (Aug. 2025 – Present)
+  * Projects: Small Firm Diaries USA, Shared Success
+  * Longitudinal survey data construction, quantitative analysis, and policy-facing research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Research Assistant**, NYU Wagner, with Prof. Zhan Guo (May 2025 – Present)
+  * Transportation and urban policy research using large-scale administrative data and spatial analysis
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Principal Investigator**, National College Student Innovation Training Program (Jan. 2023 – May 2024)
+  * Topic: Rural Human Settlement Governance under the Rural Revitalization Initiative
+  * Led a 6-member student research team; secured highest-level grant (~$1,400 USD)
+
+* **Research Assistant**, Xiamen University, School of Economics, with Prof. Xingxiang Zhang (Jan. 2022 – Jun. 2023)
+  * Qualitative and quantitative research on regional development, migration, and labor outcomes
+  * Co-authored two CSSCI-indexed publications
 
 Publications
 ======
@@ -47,18 +41,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Selected Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Violet Internship & Research Award**, NYU, 2025 & 2026
+* **National Scholarship**, Ministry of Education of China, 2023 — highest national undergraduate honor (1 in 1,000 students)
